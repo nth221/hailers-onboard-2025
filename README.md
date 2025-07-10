@@ -11,3 +11,9 @@ New hailers onboarding mini project records, 2025.
      - 팀별 미팅, 튜토리얼 공유 등 자율적인 공개 미팅 권장
 
 * Daily progress records
+
+| Date   | Contributor | Team | Score | Lboard# |
+| ------ | ----------- | ---- | ----- | ------------ |
+| 7월 10일 | 해일러 | ZZZ | 0.00000 |  9999 |
+
+## 
