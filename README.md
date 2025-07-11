@@ -28,5 +28,6 @@ New hailers onboarding mini project records, 2025.
 | 7월 11일 | 김한결      | OMHAIM | 0.77990 | 3655    |
 | 7월 11일 | 이우림      | VIDEX  | 0.78708 | 1781    |
 | 7월 11일 | 노경수      | LLLM   | 0.78468 | 2358    |
+| 7월 11일 | 심영준      | VIDEX  | 0.78468 | 2355    |
 
 ##
