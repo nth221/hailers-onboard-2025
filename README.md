@@ -16,5 +16,5 @@ New hailers onboarding mini project records, 2025.
   | Date   | Contributor | Team | Score | Lboard# |
   | ------ | ----------- | ---- | ----- | ------------ |
   | 7월 10일 | 해일러 | ZZZ | 0.00000 |  9999 |
-
+  | 7월 11일 | 강현모 | MMH | 0.78947 | 1358 |
 ## 
