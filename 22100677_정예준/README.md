@@ -1,4 +1,4 @@
-### Daily progress records
+# Daily progress records
 
 | Date     | Contributor | Team   | Score   | Lboard# |
 | -------- | ----------- | ------ | ------- | ------- |
