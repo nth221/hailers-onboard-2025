@@ -50,5 +50,7 @@ def replace_titles(x):
 - Staking : RandomForest * 5 => 최고점(7.11 제출)
 
 ## Think?~
-![alt text](image.png) train.csv에 대해서 데이터 상관관계에서 조금 특이한 점 존재 
+![alt text](image.png) 
+
+train.csv에 대해서 데이터 상관관계에서 조금 특이한 점 존재 
 - Pclass와 Fare의 상관관계는 0.5로 높은 편에 속하나,, Fare와 Survived의 관계는 Pclass와 달리 크게 상관하지 않음;
