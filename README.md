@@ -29,7 +29,7 @@ New hailers onboarding mini project records, 2025.
 | 7월 11일 | 이우림      | VIDEX  | 0.78708 | 1781    |
 | 7월 11일 | 노경수      | LLLM   | 0.78468 | 2358    |
 | 7월 11일 | 심영준      | VIDEX  | 0.78468 | 2355    |
-| 7월 11일 | 정은서 hailers-onboard-2025
+| 7월 11일 | 정은서      | VIDEX  | 0.79186 | 1002    |
 
 New hailers onboarding mini project records, 2025.
 
