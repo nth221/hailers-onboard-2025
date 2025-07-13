@@ -34,3 +34,4 @@ New hailers onboarding mini project records, 2025.
 | 7월 12일 | 이준재      | MMH    | 0.77272 | 9269    |
 | 7월 12일 | 노경수      | LLLM   | 0.78708 | 1765    |
 | 7월 13일 | 정예준      | OMHAIM | 0.78708 | 1765    |
+| 7월 13일 | 강현모      | MMH    | 0.80143 | 543     |
