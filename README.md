@@ -36,3 +36,4 @@ New hailers onboarding mini project records, 2025.
 | 7월 13일 | 정예준      | OMHAIM | 0.78708 | 1765    |
 | 7월 13일 | 강현모      | MMH    | 0.80143 | 543     |
 | 7월 13일 | 정은서      | VIDEX  | 0.79425 | 793     |
+| 7월 14일 | 정은찬      | VIDEX  | 0.80622 | 395     |
