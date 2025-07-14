@@ -39,3 +39,4 @@ New hailers onboarding mini project records, 2025.
 | 7월 14일 | 정은찬      | VIDEX  | 0.80622 | 395     |
 | 7월 14일 | 정은서      | VIDEX  | 0.81100 | 323     |
 | 7월 14일 | 정은찬      | VIDEX  | 0.82057 | 216     |
+| 7월 14일 | 강현모      | MMM    | 0.80382 | 430     |
