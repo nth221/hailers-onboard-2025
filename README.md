@@ -49,3 +49,4 @@ New hailers onboarding mini project records, 2025.
 | 7월 15일 | 이준재      | MMM    | 0.79425 | 824     |
 | 7월 15일 | 강현모      | MMM    | 0.80622 | 412     |
 | 7월 15일 | 정은서      | VIDEX  | 0.82296 | 213     |
+| 7월 15일 | 정예준      | OMHAIM | 0.79425 | 835     |
