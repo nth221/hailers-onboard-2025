@@ -6,8 +6,12 @@ New hailers onboarding mini project records, 2025.
 
 ### Instruction: Kaggle Sprint / July 10 - 15.
 
+<img width="450" src="https://github.com/user-attachments/assets/ca9a5e0e-4c0b-41e7-9ee7-e2639554b505" />
+
+
 - 연구실 내 캡스톤 팀 간 경합으로, Kaggle에서 많이 언급되는 예측 문제를 지정하여, 각 leaderboard에 우리 이름과 성적을 올리는 것을 목표로 합니다.
 
+* 문제: https://www.kaggle.com/competitions/titanic/overview
 * 목표: 리더보드 300등 이내 진입
 * 규칙
   - 개별 제출: 1일 1인 최소 1회 이상 제출 필수
