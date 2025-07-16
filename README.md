@@ -8,7 +8,6 @@ New hailers onboarding mini project records, 2025.
 
 <img width="450" src="https://github.com/user-attachments/assets/ca9a5e0e-4c0b-41e7-9ee7-e2639554b505" />
 
-
 - 연구실 내 캡스톤 팀 간 경합으로, Kaggle에서 많이 언급되는 예측 문제를 지정하여, 각 leaderboard에 우리 이름과 성적을 올리는 것을 목표로 합니다.
 
 * 문제: https://www.kaggle.com/competitions/titanic/overview
@@ -55,5 +54,6 @@ New hailers onboarding mini project records, 2025.
 | 7월 15일 | 정은서      | VIDEX  | 0.82296 | 213     |
 | 7월 15일 | 정예준      | OMHAIM | 0.79425 | 835     |
 | 7월 15일 | 정예준      | OMHAIM | 0.79904 | 619     |
-| 7월 15일 | 이찬영      | LLLM | 0.80622 | 426     |
-| 7월 15일 | 이찬영      | LLLM | 0.81339 | 321     |
+| 7월 15일 | 이찬영      | LLLM   | 0.80622 | 426     |
+| 7월 15일 | 이찬영      | LLLM   | 0.81339 | 321     |
+| 7월 16일 | 정예준      | OMHAIM | 0.80143 | 599     |
