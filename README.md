@@ -61,3 +61,4 @@ New hailers onboarding mini project records, 2025.
 | 7월 17일 | 노경수      | LLLM   | 0.81578 | 324     |
 | 7월 17일 | 강현모      | MMM    | 0.82057 | 281     |
 | 7월 17일 | 이찬영      | LLLM   | 0.82057 | 284     |
+| 1월 13일 | 주예찬      | MMM4   | 0.77511 | 8554    |
